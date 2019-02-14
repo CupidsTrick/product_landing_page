@@ -11,7 +11,15 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CupidsTrick/product_landing_page.git"
+  },
   "keywords": [],
-  "author": "Miguel Bento",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CupidsTrick/product_landing_page/issues"
+  },
+  "homepage": "https://github.com/CupidsTrick/product_landing_page#readme"
 }
